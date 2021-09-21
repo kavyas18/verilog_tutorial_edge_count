@@ -29,3 +29,5 @@ your solution in `edge_cnt.sv` before looking at mine.  I've provided obvious pl
     + `make run`: compiles and runs the `./simv`
     + `make run_wave`: compiles and runs `./simv` and will dump a waveform to `test.vcd`
 5. You can look at the waveform by running `dve` then opening the vcd with `File->Open Database`
+
+NOTE: While the simulation is running, you see messages about "syntax errors". As long as the simulation runs to completion, these messages can be ignored. 
