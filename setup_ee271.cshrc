@@ -46,7 +46,8 @@ echo "Loading environment variables..."
 mkdir -p ~/.modules   # this is just to fix a warning
 
 #source /etc/csh/login.d/lmod.csh
-source /afs/ir/class/ee/modules/init_modules.csh
+#source /afs/ir/class/ee/modules/init_modules.csh
+module use /afs/ir.stanford.edu/class/ee/modules/modulefiles/tools
 module load base
 module load genesis2
 module load syn
