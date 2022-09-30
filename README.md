@@ -31,3 +31,6 @@ your solution in `edge_cnt.sv` before looking at mine.  I've provided obvious pl
 5. You can look at the waveform by running `dve` then opening the vcd with `File->Open Database`
 
 NOTE: While the simulation is running, you see messages about "syntax errors". As long as the simulation runs to completion, these messages can be ignored. 
+
+## Credits To The Owner
+Repo cloned from https://github.com/mcoduoza/verilog_tutorial_edge_count created by Michael Oduoza
